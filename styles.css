@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+    background-image: center;
+
+}
+
+h1 {
+    color: navy;
+    margin-left: 40px;
+}
+nav {
+	text-align: center;
+	font-family: "Times New Roman", sans serif;
+	font-size: 38px;
+	font-weight: 700px;
+}
